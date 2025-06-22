@@ -1,0 +1,15 @@
+C:\Users\musta\source\repos\Patikaflix\Patikaflix_Practice\bin\Debug\net8.0\Patikaflix_Practice.exe
+C:\Users\musta\source\repos\Patikaflix\Patikaflix_Practice\bin\Debug\net8.0\Patikaflix_Practice.deps.json
+C:\Users\musta\source\repos\Patikaflix\Patikaflix_Practice\bin\Debug\net8.0\Patikaflix_Practice.runtimeconfig.json
+C:\Users\musta\source\repos\Patikaflix\Patikaflix_Practice\bin\Debug\net8.0\Patikaflix_Practice.dll
+C:\Users\musta\source\repos\Patikaflix\Patikaflix_Practice\bin\Debug\net8.0\Patikaflix_Practice.pdb
+C:\Users\musta\source\repos\Patikaflix\Patikaflix_Practice\obj\Debug\net8.0\Patikaflix_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\source\repos\Patikaflix\Patikaflix_Practice\obj\Debug\net8.0\Patikaflix_Practice.AssemblyInfoInputs.cache
+C:\Users\musta\source\repos\Patikaflix\Patikaflix_Practice\obj\Debug\net8.0\Patikaflix_Practice.AssemblyInfo.cs
+C:\Users\musta\source\repos\Patikaflix\Patikaflix_Practice\obj\Debug\net8.0\Patikaflix_Practice.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\Patikaflix\Patikaflix_Practice\obj\Debug\net8.0\Patikaflix_Practice.sourcelink.json
+C:\Users\musta\source\repos\Patikaflix\Patikaflix_Practice\obj\Debug\net8.0\Patikaflix_Practice.dll
+C:\Users\musta\source\repos\Patikaflix\Patikaflix_Practice\obj\Debug\net8.0\refint\Patikaflix_Practice.dll
+C:\Users\musta\source\repos\Patikaflix\Patikaflix_Practice\obj\Debug\net8.0\Patikaflix_Practice.pdb
+C:\Users\musta\source\repos\Patikaflix\Patikaflix_Practice\obj\Debug\net8.0\Patikaflix_Practice.genruntimeconfig.cache
+C:\Users\musta\source\repos\Patikaflix\Patikaflix_Practice\obj\Debug\net8.0\ref\Patikaflix_Practice.dll
